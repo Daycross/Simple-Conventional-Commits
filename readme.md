@@ -309,7 +309,7 @@ Achou difícil?
 * [ ] Muita informação :skull::skull:
 * [ ] Mó fome
 
-É claro que não é do dia pra noite que nossos commits ficam lindos e de fácil entendimento, mas tenho certeza de que essas dicas irão de ajudar a ser mais claro e objeto na hora de commitar para facilitar a comunicação na sua equipe!! :heart:
+É claro que não é do dia pra noite que nossos commits ficam lindos e de fácil entendimento, mas tenho certeza de que essas dicas irão te ajudar a ser mais claro e objeto na hora de commitar e facilitar muito a comunicação na sua equipe!! :heart:
 
 <h3 id="references">Referências</h3>
 
