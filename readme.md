@@ -6,7 +6,7 @@
 
 🚀 Doc simples para entender como, quando e por que utilizar os *"Conventional Commits"* em nossos commits de forma simples e simplificada
 
-### Índice {#indice}
+<h3 id="indice">Índice</h3>
 
 * [Título e Imagem de capa](#title)
 * [Badges](#badges)
@@ -136,7 +136,7 @@ Vamos deixar as coisas mais bonitas, organizadas e de fácil visualização:
     <tr>
       <td>Commit inicial</td>
       <td>🎉 <code>:tada:</code></td>
-      <td><code>init</code></td>
+      <td><code>chore</code></td>
     </tr>
     <tr>
       <td>Configuração</td>
