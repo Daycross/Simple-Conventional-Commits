@@ -311,7 +311,7 @@ Achou difícil?
 
 É claro que não é do dia pra noite que nossos commits ficam lindos e de fácil entendimento, mas tenho certeza de que essas dicas irão de ajudar a ser mais claro e objeto na hora de commitar para facilitar a comunicação na sua equipe!! :heart:
 
-<h3 id="references">Referencias</h3>
+<h3 id="references">Referências</h3>
 
 * <https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657>
 * <https://blog.rocketseat.com.br/como-fazer-um-commit-conventional-commits/>
