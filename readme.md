@@ -44,42 +44,33 @@ O objetivo de cada um desses prefixos é organizar o tipo de mudança feita naqu
 
 * **`feat:`** Um commit que adiciona ou remove uma nova feature
 **Exemplo:** Uma função totalmente nova da aplicação ou sua remoção  
-<br>
 
 * **`refactor:`** Uma refatoração feita no código que não vai alterar em nada a funcionabilidade ou qualquer tipo de lógica nas regras de negócio do projeto
 **Exemplo:** Alterar uma função "grande" para uma forma menos verbosa.
-<br>
 
 * **`style:`** Nesse caso podemos usar para duas situações:
 **1º - (Front-End)** Alterações exclusivas na folha de estilo da aplicação
 **Exemplo:** Alterações no estilo da página, geralmente nos arquivos de estilos (CSS, SASS, LESS, Styled-Componentes...)
 **2º** Mudanças na formatação do código que não alteram nenhuma regra de negócio
 **Exemplo:** Alterações nos formatadores, configurações nas convenções de *lint*, remover comentários, espaços em branco, etc...
-<br>
 
 * **`fix:`** A correção de algum problema/erro/bug no código
 **Exemplo:** Criar uma validação no uso de algum elemento da DOM para tratar o erro quando esse elemento não existir.
-<br>
 
 * **`chore:`** Mudanças na forma de compilar o projeto, adição de novos arquivos de configuração ou até mesmo ao adicionar novas bibliotecas.
 **Exemplo:** Adicionar um arquivo *``.gitignore``*.
-<br>
 
 * **`docs:`** Esse é simples (UFA), usado para indicar mudanças na documentação do projeto.
 **Exemplo:** Alteras essa linda DOC que você está lendo agora!! :dizzy:
-<br>
 
 * **`build:`** Alterações no processo de *BUILD* ou nas dependências do projeto.
 **Exemplo:** Mudanças no ``GULP`` ou remover/adicionar dependencias no ``yarn``.
-<br>
 
 * **`perf:`** Alterações específicas para melhorar a perfomace da aplicação.
 **Exemplo:** Trocar um *map()* por um *forEach()*
-<br>
 
 * **`revert:`** Destaca uma *reversão* diretamente relacionada ao *commit* anterior.
 **Exemplo:** Aqui não precisamos de exemplo (Assim espero :warning:).
-<br>
 
 ```git
     git commit -m "feat: add buy together module"
